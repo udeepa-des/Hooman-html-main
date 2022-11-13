@@ -191,9 +191,8 @@ const scope = {
   background: `In society there are two types of people some are introverts and extroverts. Introverts prefer not to be socialized much and could be shy to talk to people, but in the end, we are all humans we all need someone to be with not to be lonely, so at a point in their life they need a mate to live with, so they could date or marry someone, some of the introverts don’t know how to start a conversation even if they do most of the time they would feel awkward when having a conversation, to overcome this new advanced series of features have been added. Using a profile matcher with a series of questions shows what would be their personality and by grading them, users who have the same grades will be matched. 
   <span class="text-highlight"></span>  `,
 
-  gap: `When it comes to the evolution of media with technology, filming cameras, projectors, and distributing systems come to our minds in the very first place. </br>  It was never a small journey as it took around 4 decades from 1890 to 1930 to bring these technological solutions up to improve the media sector. The media sector grew and gained new opportunities to broadcast their content in a much clearer way using audio-video technology. </br> Currently, video technology has advanced up to the point of displaying visual objects with real-world objects in augmented space. </br>  
-  Our product enables the content creators to embed AR and 3D technologies in a live streaming environment. </br>  It allows users easy access to these technologies and <span class="text-highlight">LUMOZ</span>  provide an effective business plan for the users. It is an efficient tool with simple UI and with that, the learning curve is less. Because of it any non-technical user can easily adjust and use this tool. 
-  `,
+  gap: ``,
+
   problem: `In all those dating websites, there are some patches and huge gaps that needs to be filled, such as,​
           <ul>
           <li>How to bond with people</li>
@@ -206,17 +205,7 @@ const scope = {
           </ul>
 
           In real life these comes up with a great price, with the solution is to contacting a therapist and understanding your problem and moving on, but with this website we helps the users to understand the people in a very basic manner`,
-  objectives: `Main objective of this research is to provide a platform for the live content creators to easily create high graphical effects in their live production.
-  <span class="text-highlight">LUMOZ</span> supports for the following sub-objectives.</br></br>
-  <ul>
-  <li>Identifying the positions and points where the 3D objects should be placed.</li>
- <li> Adjusting the 3D object position and size according to the camera movement.</li>
- <li> Providing manual 3D object manipulations with functions like zooming and rotating.</li>
- <li> Controlling the 3D object with pre-defined hand gestures. </li>
- <li> Providing a 3D object library where the user can either add and use their own 3D objects or buy available 3D objects from the library. </li> 
- <li> Create 3D data visualization objects and use them in real time. </li>
-  </ul>
-  `,
+  objectives: ``,
 };
 
 document.querySelector("#project-scope").innerHTML = scope.intro;
